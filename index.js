@@ -52,7 +52,18 @@ var questionThree = {
   answer: "Momos"
 }
 
-var questions = [questionOne, questionTwo, questionThree];
+var questionFour = {
+  question: "What is Snigdha's pet's name ? ",
+  answer: "Bheem"
+}
+
+var questionFive = {
+  question: "What is Snigdha's favourite icecream flavor ? ",
+  answer: "Chocolate"
+}
+
+
+var questions = [questionOne, questionTwo, questionThree, questionFour, questionFive];
 
 var numberOfQuestions = questions.length;
 
